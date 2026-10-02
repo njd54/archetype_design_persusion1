@@ -36,7 +36,7 @@ For the Explorer archetype, I used the fictional brand **WAYFARER**.
 - Swiss + Social Proof
 - Grunge + Social Proof
 
-[View My Explorer Archetype](../archetypes/explorer.md)
+[View My Explorer Archetype](../explorer.md)
 
 ---
 
@@ -60,7 +60,7 @@ For the Innocent archetype, I used the fictional skincare brand **PUREDAY**.
 - Bauhaus + Liking
 - Pop Art + Liking
 
-[View My Innocent Archetype](../archetypes/innocent.md)
+[View My Innocent Archetype](../innocent.md)
 
 ---
 
@@ -85,7 +85,7 @@ For the Hero archetype, I used the fictional athletic brand **ASCEND**.
 - Constructivism + Unity
 - New Wave + Unity
 
-[View My Hero Archetype](../archetypes/hero.md)
+[View My Hero Archetype](../hero.md)
 
 ---
 
