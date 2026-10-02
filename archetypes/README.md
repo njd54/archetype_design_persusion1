@@ -1,12 +1,12 @@
-# Explorer Brand Archetype
+# Brand Archetypes
 
-The Explorer archetype represents freedom, independence, adventure,
-discovery, and the desire to experience something beyond the familiar.
+## Archetypes
 
-This package explores how the Explorer archetype can be presented using
-different graphic design styles and persuasion principles.
+### Explorer
+[View Explorer](explorer.md)
 
-## Explorer Characteristics
+### Innocent
+[View Innocent](innocent.md)
 
 The Explorer archetype commonly focuses on:
 
